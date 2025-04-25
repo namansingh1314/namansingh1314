@@ -102,11 +102,8 @@ Check out some of my proudest builds:
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namansingh1314&show_icons=true&theme=radical&include_all_commits=true" alt="Naman's GitHub Stats"/>
-</p>
+
 
 <div align="center">
   <img src="./3.gif" width="150px" alt="Footer GIF"/>
