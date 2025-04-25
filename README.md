@@ -3,80 +3,110 @@
 # 👋 Hello, I'm Naman Singh
 
 <div align="center">
-  <img src="./yes.gif" width="300px" alt="Welcome GIF"/>
+  <img src="./yes.gif" width="60%" alt="Welcome GIF"/>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a final-year Computer Engineering student at Bharati Vidyapeeth College of Engineering, Pune, with a CGPA of 8.50. Passionate about cloud infrastructure, DevOps, and full-stack development, I have hands-on experience in building dynamic web applications and scalable systems. I also engage in freelancing for technical content writing and web development using both code-based and low-code platforms.
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+  <p>
+    I'm a final-year Computer Engineering student at Bharati Vidyapeeth College of Engineering, Pune, with a CGPA of 8.50. Passionate about cloud infrastructure, DevOps, and full-stack development, I have hands-on experience in building dynamic web applications and scalable systems. I also engage in freelancing for technical content writing and web development using both code-based and low-code platforms.
+    
+    <br/><br/>
+    <strong>Current Interests:</strong><br/>
+    - Calisthenics 🤸‍♂️<br/>
+    - Football ⚽<br/>
+    - Crochet 🧶<br/>
+    - Reading 📚<br/>
+  </p>
 
-<img src="./pfp.gif" align="right" width="220px" alt="Profile GIF"/>
-
-**Current Interests:**
-- Calisthenics 🤸‍♂️
-- Football ⚽
-- Crochet 🧶
-- Reading 📚
+  <img src="./pfp.gif" width="220px" alt="Profile GIF" style="max-width: 100%; margin-left: 10px;"/>
+</div>
 
 ---
 
 ## 💼 Experience
 
+> Here's a quick look at my journey so far:
+
 - **JTP Co. Ltd (Apr 2025 - Present):** Trainee learning Japan's unique work ethics and culture.
-- **NYX (Mar 2025 - Present):** Software Developer specializing in building scalable data pipelines using BigQuery, Airbyte, and Airflow.
-- **Tooliqa (Apr 2025 - Present):** Software Developer working with Go, DevOps, cloud infrastructure, and monitoring tools.
-- **Neurolovai (Jan 2025 - Present):** DevOps Engineer handling backend and DevOps servers, creating monitoring dashboards.
-- **Carbon-Crunch (Feb 2025 - Present):** Cloud Consultant setting up cloud infrastructure and data pipelines.
-- **Siemens Energy (Jul 2024 – Jan 2025):** DevOps Intern developing CI/CD pipelines and managing data pipelines across AWS and Azure.
-- **Kida Studios (Jun 2024 – Jul 2024):** Software Developer Intern working on game development from concept to deployment.
-- **Yugen Consulting (Mar 2024 - May 2024):** Software Developer Intern developing and maintaining web applications, managing AWS services.
-- **BS Group (Sep 2023 - Mar 2024):** DevOps Intern managing CI/CD pipelines and enhancing system security.
-- **Smartsa.in (Jul 2023 - Sep 2023):** Backend Developer specializing in server-side applications using Node.js.
-- **Web Host Designing (Jun 2022 - Dec 2022):** Freelance Web Developer designing and developing responsive websites.
+- **NYX (Mar 2025 - Present):** Software Developer — BigQuery, Airbyte, Airflow.
+- **Tooliqa (Apr 2025 - Present):** Software Developer — Go, DevOps, cloud infra.
+- **Neurolovai (Jan 2025 - Present):** DevOps Engineer — backend infra & dashboards.
+- **Carbon-Crunch (Feb 2025 - Present):** Cloud Consultant — pipelines + infra setup.
+- **Siemens Energy (Jul 2024 – Jan 2025):** DevOps Intern — CI/CD + cloud work.
+- **Kida Studios (Jun 2024 – Jul 2024):** Game dev intern — concept to launch.
+- **Yugen Consulting (Mar 2024 - May 2024):** Full-stack & AWS intern.
+- **BS Group (Sep 2023 - Mar 2024):** DevOps Intern — CI/CD, security.
+- **Smartsa.in (Jul 2023 - Sep 2023):** Backend dev — Node.js.
+- **Web Host Designing (Jun 2022 - Dec 2022):** Freelance web design/dev.
 
 ---
 
 ## 🚀 Projects
 
-- **[nushReads](https://nush-reads.vercel.app):** Book library using web development and machine learning.
-- **[Covid-19 Detection System](https://covid-n19.streamlit.app):** Algorithm designed for detection of Covid-19 in patients.
-- **[AlgosD](https://algos-d-peach.vercel.app):** Algorithms depiction using TypeScript and Vite framework.
-- **[meMEteor](https://memeteor.netlify.app):** Easily create, save, and edit memes for free.
-- **[SteganO](https://github.com/namansingh1314/SteganO):** Image steganography using LSB substitution.
-- **[Watch-this](https://github.com/namansingh1314/Watch-this):** Infrastructure as Code using Terraform and CI/CD pipelines.
-- **[Dummy Certificate Generator](https://github.com/namansingh1314/Dummy-Certificate-Generator):** Project for learning purposes.
-- **[Wine-Q](https://github.com/namansingh1314/Wine-Q):** Wine quality prediction using ML Flow, deployed with Docker to AWS EC2.
-- **[Explain-O](https://github.com/namansingh1314/Explain-O):** Ticket booking web app with cloud tools integration.
-- **[NavApp](https://github.com/namansingh1314/NavApp):** Real-time application to maintain collaborative study updates.
-- **[E-Coaching Institute](https://github.com/namansingh1314/E-Coaching-Institute):** Responsive coaching institute website.
-- **[Diabetic Retinopathy Detection](https://github.com/namansingh1314/Diabetic-Retinopathy-Detection):** Algorithm for detection of diabetic retinopathy.
+Check out some of my proudest builds:
+
+- 🔗 [nushReads](https://nush-reads.vercel.app) — Book library using ML.
+- 🔗 [Covid-19 Detection](https://covid-n19.streamlit.app) — Health classifier.
+- 🔗 [AlgosD](https://algos-d-peach.vercel.app) — Algorithms visualizer.
+- 🔗 [meMEteor](https://memeteor.netlify.app) — Meme generator.
+- 🔗 [SteganO](https://github.com/namansingh1314/SteganO) — Image steganography.
+- 🔗 [Watch-this](https://github.com/namansingh1314/Watch-this) — Infra-as-code.
+- 🔗 [Dummy Certificate Generator](https://github.com/namansingh1314/Dummy-Certificate-Generator)
+- 🔗 [Wine-Q](https://github.com/namansingh1314/Wine-Q) — Wine quality ML app.
+- 🔗 [Explain-O](https://github.com/namansingh1314/Explain-O) — Ticket booking SaaS.
+- 🔗 [NavApp](https://github.com/namansingh1314/NavApp) — Study coordination app.
+- 🔗 [E-Coaching Institute](https://github.com/namansingh1314/E-Coaching-Institute)
+- 🔗 [Diabetic Retinopathy Detection](https://github.com/namansingh1314/Diabetic-Retinopathy-Detection)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills Snapshot
 
-- **Languages:** Python, Shell, C/C++, Go
-- **Databases:** MongoDB, DynamoDB, CosmosDB, PostgreSQL, MySQL
-- **Tools/Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Flask, Streamlit, React, Node.js
-- **Cloud & DevOps:** AWS, Azure, Hadoop, Docker, Terraform, Kubernetes, Git, GitLab, Grafana
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, Shell, C/C++, Go</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>MongoDB, DynamoDB, CosmosDB, PostgreSQL, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>Libraries</strong></td>
+    <td>Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Flask, Streamlit, React, Node.js</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>AWS, Azure, Docker, Kubernetes, Terraform, Hadoop, Git, Grafana</td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Contact Me
 
-<img src="./2.gif" align="right" width="300px" alt="Contact GIF"/>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+  <ul>
+    <li>Email: <a href="mailto:namannsingh1314@gmail.com">namannsingh1314@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://linkedin.com/in/namansingh1314">namansingh1314</a></li>
+    <li>GitHub: <a href="https://github.com/namansingh1314">@namansingh1314</a></li>
+    <li>Website: <a href="https://namansingh.in">namansingh.in</a></li>
+  </ul>
 
-- **Email:** [namannsingh1314@gmail.com](mailto:namannsingh1314@gmail.com)
-- **LinkedIn:** [linkedin.com/in/namansingh1314](https://www.linkedin.com/in/namansingh1314)
-- **GitHub:** [github.com/namansingh1314](https://github.com/namansingh1314)
-- **Portfolio:** [namansingh.in](https://namansingh.in)
-
-Feel free to reach out for collaborations, freelance projects, or just a friendly chat!
+  <img src="./2.gif" width="250px" alt="Contact GIF" style="max-width: 100%;"/>
+</div>
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namansingh1314&show_icons=true&theme=radical&include_all_commits=true" alt="Naman's GitHub Stats"/>
+</p>
 
 <div align="center">
   <img src="./3.gif" width="150px" alt="Footer GIF"/>
