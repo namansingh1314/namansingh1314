@@ -48,6 +48,9 @@
 ## 🚀 Projects
 
 Check out some of my proudest builds:
+<div align="center">
+  <img src="./3.gif" width="150px" alt="Footer GIF"/>
+</div>
 
 - 🔗 [nushReads](https://nush-reads.vercel.app) — Book library using ML.
 - 🔗 [Covid-19 Detection](https://covid-n19.streamlit.app) — Health classifier.
@@ -105,6 +108,4 @@ Check out some of my proudest builds:
 
 
 
-<div align="center">
-  <img src="./3.gif" width="150px" alt="Footer GIF"/>
-</div>
+
