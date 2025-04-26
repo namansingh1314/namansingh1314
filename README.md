@@ -16,10 +16,10 @@
     
     
      Current Interests:
-    - Calisthenics 🤸‍♂️<br/>
-    - Football ⚽<br/>
-    - Crochet 🧶<br/>
-    - Reading 📚<br/>
+    - Calisthenics 🤸‍♂️
+    - Football ⚽
+    - Crochet 🧶
+    - Reading 📚
   </p>
 
   <img src="./pfp.gif" width="220px" alt="Profile GIF" style="max-width: 100%; margin-left: 10px;"/>
