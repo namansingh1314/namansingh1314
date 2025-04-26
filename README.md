@@ -53,17 +53,9 @@ Check out some of my proudest builds:
 </div>
 
 - 🔗 [nushReads](https://nush-reads.vercel.app) — Book library using ML.
-- 🔗 [Covid-19 Detection](https://covid-n19.streamlit.app) — Health classifier.
-- 🔗 [AlgosD](https://algos-d-peach.vercel.app) — Algorithms visualizer.
 - 🔗 [meMEteor](https://memeteor.netlify.app) — Meme generator.
 - 🔗 [SteganO](https://github.com/namansingh1314/SteganO) — Image steganography.
-- 🔗 [Watch-this](https://github.com/namansingh1314/Watch-this) — Infra-as-code.
 - 🔗 [Dummy Certificate Generator](https://github.com/namansingh1314/Dummy-Certificate-Generator)
-- 🔗 [Wine-Q](https://github.com/namansingh1314/Wine-Q) — Wine quality ML app.
-- 🔗 [Explain-O](https://github.com/namansingh1314/Explain-O) — Ticket booking SaaS.
-- 🔗 [NavApp](https://github.com/namansingh1314/NavApp) — Study coordination app.
-- 🔗 [E-Coaching Institute](https://github.com/namansingh1314/E-Coaching-Institute)
-- 🔗 [Diabetic Retinopathy Detection](https://github.com/namansingh1314/Diabetic-Retinopathy-Detection)
 
 ---
 
