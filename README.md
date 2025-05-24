@@ -35,7 +35,7 @@
 - **NYX (Mar 2025 - Present):** Software Developer — BigQuery, Airbyte, Airflow.
 - **Tooliqa (Apr 2025 - Present):** Software Developer — Go, DevOps, cloud infra.
 - **Neurolovai (Jan 2025 - Present):** DevOps Engineer — backend infra & dashboards.
-- **Carbon-Crunch (Feb 2025 - Present):** Cloud Consultant — pipelines + infra setup.
+- **Carbon-Crunch (Feb 2025 - May 2025):** Cloud Consultant — pipelines + infra setup.
 - **Siemens Energy (Jul 2024 – Jan 2025):** DevOps Intern — CI/CD + cloud work.
 - **Kida Studios (Jun 2024 – Jul 2024):** Game dev intern — concept to launch.
 - **Yugen Consulting (Mar 2024 - May 2024):** Full-stack & AWS intern.
