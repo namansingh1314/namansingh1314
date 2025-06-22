@@ -2,9 +2,6 @@
 
 # 👋 Hello, I'm Naman Singh
 
-<div align="center">
-  <img src="./yes.gif" width="60%" alt="Welcome GIF"/>
-</div>
 
 ---
 
@@ -48,9 +45,7 @@
 ## 🚀 Projects
 
 Check out some of my proudest builds:
-<div align="center">
-  <img src="./3.gif" width="150px" alt="Footer GIF"/>
-</div>
+
 
 - 🔗 [nushReads](https://nush-reads.vercel.app) — Book library using ML.
 - 🔗 [meMEteor](https://memeteor.netlify.app) — Meme generator.
@@ -92,7 +87,6 @@ Check out some of my proudest builds:
     <li>Website: <a href="https://namansingh.in">namansingh.in</a></li>
   </ul>
 
-  <img src="./2.gif" width="250px" alt="Contact GIF" style="max-width: 100%;"/>
 </div>
 
 ---
