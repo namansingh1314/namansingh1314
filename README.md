@@ -27,7 +27,7 @@
 ## 💼 Experience
 
 > Here's a quick look at my journey so far:
-- **Tooliqa (Apr 2025 - Present):** Software Developer — Go, DevOps, cloud infra.
+- **Tooliqa (Apr 2025 - Present):** Software Developer — Go, DevOps, Monitoring ELK stack,Postgres.
 - **JTP Co. Ltd (Apr 2025 - Present):** Trainee learning Japan's unique work ethics and culture.
 - **Neurolovai (Jan 2025 - Present):** DevOps Engineer — backend infra & dashboards.
 - **NYX (Mar 2025 - June):** Software Developer — BigQuery, Airbyte, Airflow.
