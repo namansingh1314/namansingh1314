@@ -9,7 +9,7 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
   <p>
-    I'm a final-year Computer Engineering student at Bharati Vidyapeeth College of Engineering, Pune, with a CGPA of 8.50. Passionate about cloud infrastructure, DevOps, and full-stack development, I have hands-on experience in building dynamic web applications and scalable systems. I also engage in freelancing for technical content writing and web development using both code-based and low-code platforms.
+    Recent Graduate ,Computer Engineer from Bharati Vidyapeeth College of Engineering, Pune, with a CGPA of 8.50. Passionate about cloud infrastructure, DevOps, and full-stack development, I have hands-on experience in building dynamic web applications and scalable systems. I also engage in freelancing for technical content writing and web development using both code-based and low-code platforms.
     
     
      Current Interests:
