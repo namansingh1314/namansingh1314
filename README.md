@@ -28,7 +28,7 @@
 
 > Here's a quick look at my journey so far:
 - **Tooliqa (Apr 2025 - September 2025):** Software Developer — Go, DevOps, Monitoring ELK stack,Postgres.
-- **JTP Co. Ltd (Apr 2025 - Present):** Trainee learning Japan's unique work ethics and culture.
+- **JTP Co. Ltd (Apr 2025 - October):** Trainee learning Japan's unique work ethics and culture.
 - **Neurolovai (Jan 2025 - Present):** DevOps Engineer — backend infra & dashboards.
 - **NYX (Mar 2025 - June):** Software Developer — BigQuery, Airbyte, Airflow.
 - **Carbon-Crunch (Feb 2025 - May 2025):** Cloud Consultant — pipelines + infra setup.
